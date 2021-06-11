@@ -41,6 +41,6 @@ private:
 
     // •Ï”‚ÌéŒ¾
 
-    
+    DX9::SPRITE test;
 
 };

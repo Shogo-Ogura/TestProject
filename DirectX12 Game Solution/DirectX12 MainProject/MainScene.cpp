@@ -22,6 +22,7 @@ void MainScene::Initialize()
     //サウンドを読み込んだりする
 
 
+
 }
 
 // Allocate all memory the Direct3D and Direct2D resources.
@@ -88,6 +89,7 @@ NextScene MainScene::Update(const float deltaTime)
     // TODO: Add your game logic here.
     //ゲームを動かすプログラムを記述する
 
+    int test;
     
 
     return NextScene::Continue;
